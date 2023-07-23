@@ -1,0 +1,4 @@
+node_modules
+OpenMusic-API-V3.pem
+.env
+src/api/uploads/file
